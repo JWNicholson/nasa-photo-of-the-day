@@ -67,7 +67,7 @@ const Card = (props) => {
 
            </ExplanationText>
 
-
+        
            </CardWrapper> 
            </div>
            
